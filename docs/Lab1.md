@@ -1,6 +1,6 @@
 # Lab 1
 The folder *src/Lab1* contains the solutions to the 6 problems given in the first lab worksheet.
-We can run the task number X by running the command ``g++ ./src/taskX.cpp``.
+We can run the task number X by running the command ``g++ ./src/Lab1/taskX.cpp -o taskX``.
 Here's a short description of each solution :
 - `task1.cpp` : Takes two integers as an input and outputs their sum to the standard I/O
 - `task2.cpp` : Takes two integers as an input into two variables, swaps their value **without using a thrid variable** and outputs their values.
