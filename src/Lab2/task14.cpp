@@ -10,7 +10,7 @@ int main()
     char c = s[0];
     // The strings are ordered by ASCII value in order to perform binary search
     string vowels = "AEIOUYaeiouy";
-    string consonants = "BCDFGHJKLMNOPQRSTVWXZbcdfghjklmnpqrstvwxz";
+    string consonants = "BCDFGHJKLMNPQRSTVWXZbcdfghjklmnpqrstvwxz";
 
     // Binary search the character in the string vowels
     auto v = lower_bound(vowels.begin(), vowels.end(), c);
