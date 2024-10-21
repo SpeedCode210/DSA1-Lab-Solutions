@@ -1,5 +1,5 @@
 # Lab 3
-The folder *src/Lab3* contains the solutions to the 15 problems given in the second lab worksheet.
+The folder *src/Lab3* contains the solutions to the 10 problems given in the third lab worksheet.
 We can run the task number X by running the command ``g++ ./src/Lab3/taskX.cpp -o taskX``.
 Here's a short description of each solution :
 - `task1.cpp`  : Given three angles in degrees, figures out if they can be the 3 angles of a triangle.
