@@ -3,10 +3,11 @@
 using namespace std;
 
 string decimalToBinary(int n){
+    unsigned int N = n;
     string res = "";
-    while(n){
-        res = (char)('0' + n%2) + res;
-        n >>= 1;
+    while(N){
+        res = (char)('0' + N%2) + res;
+        N >>= 1;
     }
     return res;
 }
