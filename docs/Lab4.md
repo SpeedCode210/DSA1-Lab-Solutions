@@ -1,5 +1,5 @@
 # Lab 4
-The folder *src/Lab4* contains the solutions to the 10 problems given in the third lab worksheet.
+The folder *src/Lab4* contains the solutions to the 10 problems given in the fourth lab worksheet.
 We can run the task number X by running the command ``g++ ./src/Lab4/taskX.cpp -o taskX``.
 Here's a short description of each solution :
 - `task1.cpp`  : Takes the radius of a circle and displays its diameter, circumference, and area.
